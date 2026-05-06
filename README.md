@@ -3,6 +3,10 @@
 This project analyzes customer purchasing patterns across gender, product categories, seasons, and locations to identify key revenue drivers and business opportunities.
 ## Tools Used
 Microsoft Excel (Pivot Tables, Slicers, Dashboard Design)
+## Pivot Table
+Pivot Table was use to summarize, reorganize and analize the dataset. It allowed me to pull insight out of the raw data
+<img width="1355" height="585" alt="Pivot Table 1" src="https://github.com/user-attachments/assets/d7fdd6ed-4a3e-4088-b3b7-c01140c4c993" />
+
 ## Key Insights
 Male customers contribute 44% the total revenue due to larger customer base.
 Sales peak during  spring at $160k approximately indicating strong seasonality.
