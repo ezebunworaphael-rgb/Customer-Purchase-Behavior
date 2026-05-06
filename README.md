@@ -1,3 +1,4 @@
+<img width="1317" height="604" alt="dashboard png" src="https://github.com/user-attachments/assets/710e9a90-c43e-4ea2-8876-36e5c7ea790d" />
 ## Customer-Purchase-Behavior
 # OVERVIEW
 This project analyzes customer purchasing patterns across gender, product categories, seasons, and locations to identify key revenue drivers and business opportunities.
