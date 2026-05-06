@@ -1,6 +1,8 @@
 ## Customer-Purchase-Behavior
 # OVERVIEW
 This project analyzes customer purchasing patterns across gender, product categories, seasons, and locations to identify key revenue drivers and business opportunities.
+## Data Source
+Dataset sourced from [Kaggle] / simulated dataset for analysis purposes
 ## Tools Used
 Microsoft Excel (Pivot Tables, Slicers, Dashboard Design)
 ## Pivot Table
