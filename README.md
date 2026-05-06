@@ -5,6 +5,10 @@ This project analyzes customer purchasing patterns across gender, product catego
 Dataset sourced from [Kaggle] / simulated dataset for analysis purposes
 ## Tools Used
 Microsoft Excel (Pivot Tables, Slicers, Dashboard Design)
+## Table
+This is the dataset after cleaning and ensuring there are no inconsistency
+![Uploading Table 1.png…]()
+
 ## Pivot Table
 Pivot Table was use to summarize, reorganize and analize the dataset. It allowed me to pull insight out of the raw data
 <img width="1355" height="585" alt="Pivot Table 1" src="https://github.com/user-attachments/assets/d7fdd6ed-4a3e-4088-b3b7-c01140c4c993" />
