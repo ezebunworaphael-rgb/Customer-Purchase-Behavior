@@ -15,11 +15,8 @@ Pivot Table was use to summarize, reorganize and analize the dataset. It allowed
 <img width="1340" height="761" alt="Pivot Table 2" src="https://github.com/user-attachments/assets/dceabce7-feff-474d-bf55-38fb35d62aa5" />
 
 
-## Key Insights
-Male customers contribute 44% the total revenue due to larger customer base.
-Sales peak during  spring at $160k approximately indicating strong seasonality.
-Clothing and Accessories are the top performing categories suggesting customer preference. these categories should be prioritized for inventory and promotions
- New York leads in revenue, while some regions underperform.    
+## Dashboard and insight
+After using the pivot table to summarize and analysie the dataset, I went further to develop the dashboard so as to communicate the insight with visuals  
 <img width="1518" height="132" alt="image" src="https://github.com/user-attachments/assets/fcb55eb6-7b78-4be9-be45-37ba49a731b6" />
 <img width="1317" height="604" alt="dashboard png" src="https://github.com/user-attachments/assets/fc2d1c15-23ee-4d2d-92ff-a95a64f838cd" />
 ## Recommendation
