@@ -7,7 +7,7 @@ Dataset sourced from [Kaggle] / simulated dataset for analysis purposes
 Microsoft Excel (Pivot Tables, Slicers, Dashboard Design)
 ## Table
 This is the dataset after cleaning and ensuring there are no inconsistency
-![Uploading Table 1.png…]()
+<img width="1356" height="757" alt="Table 1" src="https://github.com/user-attachments/assets/7542efb8-3e4f-4eae-b6f1-55bc6f070f52" />
 
 ## Pivot Table
 Pivot Table was use to summarize, reorganize and analize the dataset. It allowed me to pull insight out of the raw data
