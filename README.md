@@ -12,3 +12,4 @@ Clothing and Accessories are the top performing categories suggesting customer p
 <img width="1317" height="604" alt="dashboard png" src="https://github.com/user-attachments/assets/fc2d1c15-23ee-4d2d-92ff-a95a64f838cd" />
 ## Recommendation
 <img width="642" height="132" alt="image" src="https://github.com/user-attachments/assets/a6504b59-815a-4236-a441-844bb9f91e0b" />
+ 
